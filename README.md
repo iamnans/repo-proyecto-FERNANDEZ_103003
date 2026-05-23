@@ -16,3 +16,6 @@ ingresos y comportamiento general de las ventas.
 - Jira Software
 - Python
 - CSV como fuente de datos
+
+## Revisión final
+Se realizó una revisión general de la documentación y estructura del proyecto.
